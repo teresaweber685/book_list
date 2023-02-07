@@ -94,6 +94,4 @@
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 
-## License
 
-Licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
